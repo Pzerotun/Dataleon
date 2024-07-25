@@ -4,14 +4,14 @@ Bienvenue dans le test technique de Dataleon.
 ## Installation
 
 1. Cloner le Repository
-    git clone https://github.com/Pzerotun/Dataleon.git
-    cd Dataleon/react-question-game
+    - git clone https://github.com/Pzerotun/Dataleon.git
+    - cd Dataleon/react-question-game
 
 2. Installer les Dépendances
-    npm install
+    - npm install
 
 3. Démarrer l'Application
-    npm start
+    - npm start
 
 L'application sera disponible à l'adresse http://localhost:3000.
 
