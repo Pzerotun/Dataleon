@@ -1,7 +1,7 @@
 # Dataleon - Test Technique
 Bienvenue dans le test technique de Dataleon.
 
-## Installation
+### Installation
 
 1. Cloner le Repository
     - git clone https://github.com/Pzerotun/Dataleon.git
